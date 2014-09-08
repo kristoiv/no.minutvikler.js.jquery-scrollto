@@ -3,6 +3,13 @@ no.minutvikler.js.jquery-scrollto
 
 A jquery-plugin to simplify anchor-onclick-animation-scrolling to href-id.
 
+Interface
+=========
+
+```javascript
+var scrollTo = function(speed, offset, callback);
+```
+
 Example usage
 =============
 
